@@ -22,4 +22,4 @@ Sorting Visualizer is a web application that visualizes various sorting algorith
 5. Click the "Sort" button to visualize the sorting process.
 
 
-[Website Link](https://mahfuzrifat7.github.io/SortingVisualizer "Sorting Visualizer")
+[Website Link](https://manish-lakkavatri.github.io/Sorting-Visualizer/)
